@@ -16,8 +16,8 @@ global.autoviewstatus = false;                 //make true to view statuses
 global.anticall = false
 
 
-global.SESSION_ID = process.env.SESSION_ID || "prince_md-LQ9B0YTK#UZGVjYvKU4Vn5E8p7iQvzUhOMR6GAanB-I4qedC2q70"
-global.Owner = ["237682698517"]; //like 2347080968564 
+global.SESSION_ID = process.env.SESSION_ID || "prince_md-XItDEBzZ#eZBtKoZkFFWcqR71tKtJqozqwCKos7oPYw8KV4yIkuA"
+global.Owner = ["2348065083057"]; //like 2347080968564 
 global.OwnerName =  "PRINCE";
 global.BotName = "PRINCE-MD-V2";
 global.packname = "PRINCE-MD-V2";                             //Do not change.
